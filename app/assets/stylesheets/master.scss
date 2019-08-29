@@ -1,3 +1,4 @@
+
 @import "bootstrap";
 
 .booyah-box {
@@ -25,4 +26,10 @@ body {
 .navbar {
   background: image_url('prism.png');
   box-shadow: 0px 1px 3px #2a2a2a;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #1EEF8C;
+  font-family: 'fira_sansbold', sans-serif;
+  font-size:26px;
 }

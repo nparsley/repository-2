@@ -5,6 +5,7 @@
     <p><%= place.description %></p><br /> 
   </div>
 
-<%= will_paginate @places, previous_label: h("<"), next_label: h(">") %>
+<% end %>
+<!-- moved pagination out of the each loop so that it only renders one time -->
 
-  <% end %>
+<%= will_paginate @places, previous_label: h("<"), next_label: h(">") %>

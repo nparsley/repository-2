@@ -113,3 +113,14 @@
   <%= f.submit "Add a Photo", class: 'btn btn-primary' %>
 <% end %>
 
+
+<% @place.photos.each do |photo| %>
+  <div class="col-12 col-sm-6">
+    <blockquote class="photo-display">
+      <%= image_tag photo.picture.to_s %>
+        <p><% if photo.caption.present? %>
+          <%= photo.caption %></p>
+        <% end %>
+      </blockquote>
+    </div>
+  <% end %>

@@ -112,8 +112,8 @@
     <div class="row col-10 offset-1">
 <% @place.photos.each do |photo| %>
     <div class="col-12 col-sm-6">
+<%= image_tag photo.picture.to_s %>
         <blockquote class="photo-display">
-          <%= image_tag photo.picture.to_s %>
           <p><% if photo.caption.present? %>
             <%= photo.caption %></p>
           <% end %>

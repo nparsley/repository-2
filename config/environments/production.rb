@@ -1,6 +1,6 @@
 Rails.application.configure do
   config.action_mailer.default_url_options = { host: 'nomster-nick-parsley.herokuapp.com' }
-   Settings specified here will take precedence over those in config/application.rb.
+   # Settings specified here will take precedence over those in config/application.rb.
     ActionMailer::Base.smtp_settings = {
     address: 'smtp.sendgrid.net',
     port: '587',

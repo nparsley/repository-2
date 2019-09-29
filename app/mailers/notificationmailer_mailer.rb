@@ -5,3 +5,4 @@ class NotificationMailer < ApplicationMailer
     mail(to: "nicholasparsley@gmail.com",
          subject: "A comment has been added to your place")
   end
+end

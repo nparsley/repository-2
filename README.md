@@ -1,38 +1,19 @@
 # OVERVIEW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
 
 
 # HOME PAGE
 
-* Home page will show the list of places that have been added by users
+* Nomster - Home/landing page will show the list of places that have been added by users.
+* Each listed place will include the name, address, and description of the place added by the user
+* The most recent (if any) comment will be shown under the place
 
 
 # PLACES
 
-* Clicking on a place that is listed will direct user to a page showing the location, photos, comments, and description of place
+* Each name of a place is a link that will direct the user to a page showing the location, photos, comments, and description of place
 
 # USERS
 

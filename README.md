@@ -1,5 +1,5 @@
 # OVERVIEW
-  <img src='places-display.png'>
+  <img src="/nomster/app/assets/places-display.png">
 
 * User-friendly pizza review app that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 

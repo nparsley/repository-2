@@ -5,7 +5,7 @@
 
 # HOME PAGE
 
-<img src='places-display.PNG'>
+<img src='nomsterhome.PNG'>
 
 * Nomster - Home/landing page will show the list of places that have been added by users.
 * Each listed place will include the name, address, and description of the place added by the user.
@@ -14,6 +14,8 @@
 
 # PLACES
 
+<img src='places-display.PNG'>
+<img src='places-displayzoom.PNG'>
 * Each name of a place is a link that will direct the user to a page showing the location, photos, comments, and description of place.
 
 

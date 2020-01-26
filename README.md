@@ -3,11 +3,11 @@
 * User-friendly pizza review app that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
 
-# HOME PAGE
+# LANDING PAGE
 
 <img src='nomsterhome.PNG'>
 
-* Nomster - Home/landing page will show the list of places that have been added by users.
+* Nomster - Landing page will show the list of places that have been added by users.
 * Each listed place will include the name, address, and description of the place added by the user.
 * The most recent (if any) comment will be shown under the place.
 
@@ -16,15 +16,21 @@
 
 <img src='places-display.PNG'>
 <img src='places-displayzoom.PNG'>
-* Each name of a place is a link that will direct the user to a page showing the location, photos, comments, and description of place.
+
+* Each name of a place listed on the landing page is a link that will direct the user to a new page showing the location, photos, comments, and description of place.
+* If the address provided is accurate, then a google map will be displayed with the location pinned
 
 
 # USERS
 
-* Will sign in to add places including comments, photos, and address (as shown on google map).
-* Can comment and add photos for places added by other users.
+<img src='usersignin.PNG'>
 
+* Users will sign in to add places including comments, photos, and address (as shown on google map).
 
-# LOCATION INFO
+<img src='usernewplace.PNG'>
 
-* If a recognized address is provided, then the map will pin the location on a google map with the ability to zoom in and zoom out.
+* Users can comment and add photos for places added by other users.
+
+<img src='userprofile.PNG'>
+
+* Users can view entire history of comments and places created by clicking on the My Profile link 

@@ -7,7 +7,7 @@
 
 <img src='nomsterhome.PNG'>
 
-* Nomster - Landing page will show the list of places that have been added by users.
+* Landing page will show the list of places that have been added by users.
 * Each listed place will include the name, address, and description of the place added by the user.
 * The most recent (if any) comment will be shown under the place.
 
@@ -25,12 +25,15 @@
 
 <img src='usersignin.PNG'>
 
-* Users will sign in to add places including comments, photos, and address (as shown on google map).
+* Users will sign in to add places including name, description, photos, and address (as shown on google map).  
 
 <img src='usernewplace.PNG'>
 
-* Users can comment and add photos for places added by other users.
+* Users can comment, give ratings, and add photos for places added by other users.
 
 <img src='userprofile.PNG'>
 
-* Users can view entire history of comments and places created by clicking on the My Profile link 
+* Users can view their entire history of comments and places created by clicking on the My Profile link 
+
+
+<img src/app/asset/images='landinguser.PNG'>

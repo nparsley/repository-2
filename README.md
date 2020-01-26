@@ -34,4 +34,5 @@
 <img src='userprofile.PNG'>
 
 * Users can view their entire history of comments and places created by clicking on the My Profile link.
+* When a new comment or rating is made to a place, the user that initially added the place will receive an e-mail notification with an update.
 

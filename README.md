@@ -36,4 +36,4 @@
 * Users can view their entire history of comments and places created by clicking on the My Profile link 
 
 
-<img src/app/assets/images='landinguser.PNG'>
+<img src\app\assets\images='landinguser.PNG'>

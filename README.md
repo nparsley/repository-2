@@ -18,7 +18,7 @@
 <img src='places-displayzoom.PNG'>
 
 * Each name of a place listed on the landing page is a link that will direct the user to a new page showing the location, photos, comments, and description of place.
-* If the address provided is accurate, then a google map will be displayed with the location pinned
+* If the address provided is accurate, then a google map will be displayed with the location pinned.
 
 
 # USERS
@@ -33,5 +33,5 @@
 
 <img src='userprofile.PNG'>
 
-* Users can view their entire history of comments and places created by clicking on the My Profile link 
+* Users can view their entire history of comments and places created by clicking on the My Profile link.
 

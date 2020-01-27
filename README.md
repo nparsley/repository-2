@@ -1,6 +1,6 @@
 # OVERVIEW
 
-* User-friendly pizza review app that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
+* User-friendly restaurant review app that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
 
 # LANDING PAGE

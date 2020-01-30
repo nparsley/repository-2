@@ -1,7 +1,7 @@
 # OVERVIEW
 
 * User-friendly restaurant review app that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
-
+*  View the app here: <a href="https://nomster-nick-parsley.herokuapp.com/">Nomster</a>
 
 # LANDING PAGE
 
